@@ -1,1 +1,1 @@
-# Scrapping_otomoto_audi
+W ramach jednego z projektów realizowanych na Polsko-Japońskiej Akademi technik Komputerowych zrealizowałem projekt, który miał za zadanie zbieranie w sposób autonomiczny informacji o samochodach audi na otomoto.pl. 
